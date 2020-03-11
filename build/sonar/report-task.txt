@@ -3,5 +3,5 @@ projectKey=calidad-G7-2020_calidad-Grupo7
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.5704
 dashboardUrl=https://sonarcloud.io/dashboard?id=calidad-G7-2020_calidad-Grupo7
-ceTaskId=AXDKbPclddANpls5bDXH
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXDKbPclddANpls5bDXH
+ceTaskId=AXDKwQNFVgUI52D-ab46
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXDKwQNFVgUI52D-ab46
