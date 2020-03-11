@@ -27,7 +27,5 @@ script:
 
 branches:
   only:
-    - gh-pages
     - master
     - feature/travis1
-    - /.*/
