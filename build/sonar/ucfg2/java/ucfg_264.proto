@@ -1,48 +1,48 @@
 
-?com.mainpakage.Tetrix.PlayerData#compareTo(Ljava/lang/Object;)I]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java# #("paramAnnotations*À
-2]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java( (("g
-]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java( ((
-""*À
-4]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java& &("g
-]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java& &(
-""*ö
-5]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java$& $('™
-ß
-]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java$ $(('
+?com.mainpakage.Tetrix.PlayerData#compareTo(Ljava/lang/Object;)Il
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java# #("paramAnnotations*È
+2l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java( (("v
+l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java( ((
+""*È
+4l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java& &("v
+l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java& &(
+""*∏
+5l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java$& $('π
+∂
+l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java$ $(('
 aux com.mainpakage.Tetrix.PlayerData"__id*
 
 ojava.lang.Object*	
 2
 4
-1*∞
-paramAnnotations]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java# #("•
-¢
-]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java" "(
+1*›
+paramAnnotationsl
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java# #("¥
+±
+l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java" "(
 %0"
 __annotate*
 java.lang.Override*
 
-ojava.lang.Objectè
-å
-]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java#  #(!
+ojava.lang.Objectû
+õ
+l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java#  #(!
 ojava.lang.Object"__annotation*
 
 %0*
-5*À
-1]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java* *("g
-]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java* *(
+5*È
+1l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java* *("v
+l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/PlayerData.java* *(
 "":
 ojava.lang.ObjectB$"
  com.mainpakage.Tetrix.PlayerData

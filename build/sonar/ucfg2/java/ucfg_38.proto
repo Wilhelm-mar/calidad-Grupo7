@@ -1,57 +1,57 @@
 
-/com.mainpakage.Tetrix.CustomView#isSlowSpeed()Z]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.javaz z("6*Ž
-2]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java{ {(¡
-ž
-]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java{ {(/
+/com.mainpakage.Tetrix.CustomView#isSlowSpeed()Zl
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.javaz z("6*¬
+2l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java{ {(°
+­
+l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java{ {(/
 p*com.mainpakage.Tetrix.TetrixPieces.PowerUp"__id*
 ""*
 5
-1*Ë
-3]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java ("g
-]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java ( 
-""*–
-4]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java}1 }(2Ó
-Ð
-]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java} }(36
+1*é
+3l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java ("v
+l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java ( 
+""*Ã
+4l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java}1 }(2â
+ß
+l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java} }(36
 paux.com.mainpakage.Tetrix.TetrixPieces.slowPowerUp"__id*1
 /
-p*com.mainpakage.Tetrix.TetrixPieces.PowerUpÓÐ
-]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java~ ~(!
+p*com.mainpakage.Tetrix.TetrixPieces.PowerUpâß
+l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java~ ~(!
 %2boolean"java.lang.Thread#isAlive()Z*8
 6
 paux.com.mainpakage.Tetrix.TetrixPieces.slowPowerUp2	isAlive()*
 2
-3*×
-5]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java| |(êç
-]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java| |(	
+3*õ
+5l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java| |(ùö
+l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java| |(	
 %1int";com.mainpakage.Tetrix.TetrixPieces.TetrixPiece#isPowerUp()I*1
 /
 p*com.mainpakage.Tetrix.TetrixPieces.PowerUp2isPowerUp()*
 2
-4*œ
-6]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java{ {(²
-¯
-]
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java{ {(
+4*º
+6l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java{ {(Á
+¾
+l
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java{ {(
 %0java.util.List"__id*2*0"
  com.mainpakage.Tetrix.CustomView"
 
 powerUps*
-2*Ï
-1_
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java‚ ‚("i
-_
-SD:/GitKraken/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java‚ ‚(
+2*í
+1n
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java‚ ‚("x
+n
+bC:/Users/Guileath/Documents/calidad-Grupo7/app/src/main/java/com/mainpakage/Tetrix/CustomView.java‚ ‚(
 ""B$"
  com.mainpakage.Tetrix.CustomView
