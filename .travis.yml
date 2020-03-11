@@ -23,9 +23,9 @@ script:
   - echo "Travis branch is $TRAVIS_BRANCH"
   - echo "Travis branch is in pull request $TRAVIS_PULL+REQUEST"
   - ./gradlew build
-  - ./gradlew sonarqube
+#  - ./gradlew sonarqube
 
-branches:
-  only:
-    - master
-    - feature/travis1
+#branches:
+#  only:
+#    - master
+#    - feature/travis1
