@@ -13,9 +13,20 @@ android:
 before_install:
   - chmod +x ./gradlew
 
+addons:
+  sonarcloud:
+    organization: calidad-g7-2020
+    token:
+      secure: a6e42f92d088327c83c720212f870da1e227a7b1
 
 script:
   - echo "Travis branch is $TRAVIS_BRANCH"
   - echo "Travis branch is in pull request $TRAVIS_PULL+REQUEST"
   - ./gradlew build
-#  - ./gradlew sonarqube
+  - ./gradlew sonarqube
+
+branches:
+  only:
+    - gh-pages
+    - master
+    - /.*/

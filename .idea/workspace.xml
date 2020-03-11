@@ -10,7 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11b84698-5468-4f3d-80e3-9072c7a27ca4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,40 +39,6 @@
         <option value="Interface" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>iscol</find>
-      <find>getSecondPieceSpeed()</find>
-      <find>getSecondPieceSpeed</find>
-      <find>contS</find>
-      <find>moverA</find>
-      <find>movera</find>
-      <find>moverAB</find>
-      <find>RESETs</find>
-      <find>aba</find>
-      <find>cop</find>
-      <find>is</find>
-      <find>isC</find>
-      <find>COLI</find>
-      <find>lines</find>
-      <find>CHANGE</find>
-      <find>changeG</find>
-      <find>gameO</find>
-      <find>baux</find>
-      <find>updateS</find>
-      <find>updateScore</find>
-      <find>numLines</find>
-      <find>update</find>
-      <find>cubo3</find>
-      <find>cubo1</find>
-      <find>cubo2</find>
-      <find>butTu</find>
-      <find>train</find>
-      <find>tu p</find>
-      <find>gold</find>
-      <find>scoreTe</find>
-    </findStrings>
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="KEY_STORE_PATH" value="D:\Documents\Android APKs Keys\AlmacenClavesApks1.jks" />
