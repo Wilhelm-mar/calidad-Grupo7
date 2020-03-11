@@ -17,7 +17,7 @@ addons:
   sonarcloud:
     organization: calidad-g7-2020
     token:
-      secure: a6e42f92d088327c83c720212f870da1e227a7b1
+      secure: 691e4432525d7d9ad9243b4784c6f9611b4939ed
 
 script:
   - echo "Travis branch is $TRAVIS_BRANCH"
